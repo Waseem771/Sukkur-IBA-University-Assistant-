@@ -1,0 +1,27 @@
+{
+  "created_at": "2026-09-28T08:47:59.179362+00:00",
+  "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+  "normalized_embeddings": true,
+  "chunk_size": 1000,
+  "chunk_overlap": 150,
+  "total_files": 2,
+  "total_pages": 33,
+  "total_chunks": 72,
+  "departments": {
+    "General": {
+      "chunks": 72,
+      "files": [
+        "Postgraduate-Rules-Sukkur-IBA-University.pdf",
+        "admission fall 2023.pdf"
+      ]
+    }
+  },
+  "unreadable_files": [],
+  "filterable_fields": [
+    "department",
+    "source",
+    "filename",
+    "folder_path",
+    "page"
+  ]
+}
