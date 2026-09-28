@@ -1,0 +1,5 @@
+.streamlit/secrets.toml
+IBA_Sukkur_University/
+__pycache__/
+*.pyc
+.env
